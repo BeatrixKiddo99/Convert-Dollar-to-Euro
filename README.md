@@ -1,4 +1,4 @@
-# Convert-Dollar-to-Euro
+# Dollar-to-Euro-Adapter
 A C# program that calculates two values and converts Dollar's to Euro currency
 
 To open the adapter go to DollarEuroAdapter\DollarEuroAdapter\bin\Debug and then DollarEuroAdapter.exe
